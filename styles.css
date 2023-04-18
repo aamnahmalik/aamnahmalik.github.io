@@ -3,3 +3,9 @@
     color:red;
     font-style: bold;
 }
+
+.image
+{
+    width: 100px;
+    padding-right: 25px;
+}
