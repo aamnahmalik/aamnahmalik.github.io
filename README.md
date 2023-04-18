@@ -1,2 +1,2 @@
-# aamnahmalik.github.io
-Website for CSC109
+Link to my website: 
+https://aamnahmalik.github.io/
